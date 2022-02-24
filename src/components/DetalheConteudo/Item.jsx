@@ -17,6 +17,9 @@ const StyleTitulo = styled.h1`
 const StyleTexto = styled.p`
     font-size: 18px;
     text-align: center;
+    font-weight: bold;
+    justify-content:center;
+    align-items:center;
 `;
 const StyleImagem = styled.div`
     background-image: url(${props => props.imagem});

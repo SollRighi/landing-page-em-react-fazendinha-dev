@@ -30,6 +30,7 @@ const StyleTexto = styled.p`
     font-weight: bold;
     width:200px;
     word-wrap: break-word;
+    text-align: center;
     
 `;
 
